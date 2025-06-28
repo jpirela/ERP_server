@@ -292,7 +292,7 @@ export const forgotPassword = async (req, res) => {
       service: 'gmail',
       auth: {
         user: 'soporteERP@gmail.com',
-        pass: 'lont xtij hqke bkup',
+        pass: 'password',
       },
     });
 
